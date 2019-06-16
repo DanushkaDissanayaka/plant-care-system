@@ -5,4 +5,4 @@
     03). MQTT (MQTT library for Arduino)    version 2.4.3
     
 ## Sample mqtt broker for this project
-    https://github.com/shawnDx/MqttBroker
+    (https://github.com/shawnDx/MqttBroker)
